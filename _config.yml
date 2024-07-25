@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+name: Deploy Firebase - Functions + Storage + Firestore
+uses: ivoilic/deploy-firebase-functions-storage-firestore@v1.1
+            
